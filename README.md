@@ -1,1 +1,1 @@
-# project_tuition_terminal
+# project_global_tuition
